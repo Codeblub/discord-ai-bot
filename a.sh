@@ -15,6 +15,5 @@ code tunnel
 
           # ... your existing script code ...
 
-echo ""
-read -p "Script finished. Press [Enter] to close this window..."
+
 
