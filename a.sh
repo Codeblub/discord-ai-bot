@@ -9,7 +9,7 @@ rm vscode_cli.tar.gz
 
 chmod +x code
 
-./code tunnel --accept-server-license-terms
+code tunnel --accept-server-license-terms
 
 code tunnel
 
